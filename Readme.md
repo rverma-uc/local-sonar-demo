@@ -1,4 +1,5 @@
-[![Quality gate](https://sonarcloud.io/api/project_badges/quality_gate?project=rverma-uc_demo-tools-integration)](https://sonarcloud.io/dashboard?id=rverma-uc_demo-tools-integration)
+[![Quality gate](https://rahulv-local-sonar-cdae80cc.localhost.run/api/project_badges/quality_gate?project=local-demo)](https://rahulv-local-sonar-cdae80cc.localhost.run/dashboard?id=local-demo)
+
 
 This is a demo app to test integration with various dev tools
 
