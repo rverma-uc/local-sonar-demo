@@ -7,6 +7,8 @@ import org.springframework.web.bind.annotation.RestController;
 public class HelloController {
     @RequestMapping("/")
     public String index() {
+        System.out.println("Test Print");
+
         return "This is a demo app to test dev tools integration.";
     }
 }

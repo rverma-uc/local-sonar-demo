@@ -8,6 +8,7 @@ class DemoIntegrationApplicationTests {
 
     @Test
     void contextLoads() {
+        System.out.println("Test Print");
     }
 
 }
